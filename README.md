@@ -9,3 +9,4 @@ Specify the sender, the subject, the sheet ID and tab-name in the script file. T
 
 Set up a trigger in Apps Script so you dont need to manually fire up the script. Set up a filter in Gmail to remove the report messages from your inbox.
 
+Reach out if you need support. Happy to help.
